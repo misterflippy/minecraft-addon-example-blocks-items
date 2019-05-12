@@ -1,0 +1,25 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "Minecraft Addon Example - Blocks and Items",
+        "description": "Example block Add-on",
+        "uuid": "e46b287a-7cb5-465b-9e37-6d3f4885509c",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Resources for Minecraft Addon Example - Blocks and Items",
+            "type": "resources",
+            "uuid": "81d48d6f-2ad3-434d-9f8c-1e146cc5dc8d",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

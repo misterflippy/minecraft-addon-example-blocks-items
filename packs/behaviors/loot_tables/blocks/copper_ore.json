@@ -1,0 +1,14 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "addon-example-blocks-items:copper_ore",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

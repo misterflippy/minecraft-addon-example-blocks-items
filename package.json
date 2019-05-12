@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-addon-example-blocks-items",
+  "private": true,
+  "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch",
+    "installaddon": "gulp install",
+    "uninstalladdon": "gulp uninstall",
+    "packageaddon": "gulp package"
+  },
+  "devDependencies": {
+    "minecraft-addon-toolchain": "^1.0.1"
+  }
+}

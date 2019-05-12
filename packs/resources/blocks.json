@@ -1,0 +1,15 @@
+{
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "addon-example-blocks-items:copper_ore": {
+        "textures": "copper_ore",
+        "sound": "stone"
+    },
+    "addon-example-blocks-items:copper_ore_animated": {
+        "textures": "copper_ore_animated",
+        "sound": "stone"
+    }
+}

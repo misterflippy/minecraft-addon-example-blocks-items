@@ -1,0 +1,14 @@
+{
+    "resource_pack_name": "addon-example-blocks-items",
+    "texture_name": "atlas.terrain",
+    "padding": 8,
+    "num_mip_levels": 4,
+    "texture_data": {
+        "copper_ore": {
+            "textures": "textures/blocks/copper_ore"
+        },
+        "copper_ore_animated": {
+            "textures": "textures/blocks/copper_ore_animated"
+        }
+    }
+}

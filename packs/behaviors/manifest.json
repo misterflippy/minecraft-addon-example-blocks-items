@@ -1,0 +1,35 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "Minecraft Addon Example - Blocks and Items",
+        "description": "Example blocks and items",
+        "uuid": "2fb0151e-2bda-4aad-a723-799933967344",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Behaviours for Minecraft Addon Example - Blocks and Items",
+            "type": "data",
+            "uuid": "51c6a488-633e-49b9-9b8d-71373f74fc4d",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "e46b287a-7cb5-465b-9e37-6d3f4885509c",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
