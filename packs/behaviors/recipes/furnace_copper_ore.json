@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "minecraft:furnace_copper_ore"
+        },
+
+
+        "tags": [ "furnace", "blast_furnace" ],
+        "input": "addon-example-blocks-items:copper_ore",
+        "output": "addon-example-blocks-items:copper_ingot"
+    }
+
+}

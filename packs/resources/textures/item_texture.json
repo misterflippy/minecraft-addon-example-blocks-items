@@ -1,0 +1,8 @@
+{
+    "resource_pack_name": "addon-example-blocks-items",
+    "texture_data": {
+        "copper_ingot": {
+            "textures": "textures/items/copper_ingot"
+        }
+    }
+}
