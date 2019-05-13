@@ -3,6 +3,12 @@
     "texture_data": {
         "copper_ingot": {
             "textures": "textures/items/copper_ingot"
+        },
+        "copper_sword": {
+            "textures": "textures/items/copper_sword"
+        },
+        "copper_apple": {
+            "textures": "textures/items/apple_copper"
         }
     }
 }

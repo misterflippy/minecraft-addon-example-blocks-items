@@ -3,8 +3,7 @@
     "minecraft:block": {
         "description": {
             "identifier": "addon-example-blocks-items:copper_ore",
-            "is_experimental": false,
-            "register_to_creative_menu": true
+            "is_experimental": false
         },
         "components": {
             "minecraft:loot": {
