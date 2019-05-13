@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:item": {
         "description": {
-            "identifier": "addon-example-blocks-items:copper_ingot"
+            "identifier": "addon-example-blocks-items:copper_sword"
         }
     }
 }
