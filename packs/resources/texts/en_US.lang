@@ -1,2 +1,4 @@
+item.addon-example-blocks-items:copper_ingot.name=Copper Ingot
+
 tile.addon-example-blocks-items:copper_ore.name=Copper Ore
 tile.addon-example-blocks-items:copper_ore_animated.name=Copper Ore (animated)
