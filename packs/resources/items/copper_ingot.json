@@ -1,0 +1,13 @@
+{
+    "format_version": "1.12",
+    "minecraft:item": {
+        "description": {
+            "identifier": "addon-example-blocks-items:copper_ingot",
+            "category": "Items"
+        },
+
+        "components": {
+            "minecraft:icon": "copper_ingot"
+        }
+    }
+}
