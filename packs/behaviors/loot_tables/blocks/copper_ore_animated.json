@@ -5,7 +5,16 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "addon-example-blocks-items:copper_ore_animated",
+                    "name": "addon-example-blocks-items:copper_nugget",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 3,
+                                "max": 6
+                            }
+                        }
+                    ],
                     "weight": 1
                 }
             ]

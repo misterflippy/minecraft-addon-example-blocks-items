@@ -1,6 +1,7 @@
 item.addon-example-blocks-items:copper_apple.name=Copper Apple
 item.addon-example-blocks-items:copper_ingot.name=Copper Ingot
 item.addon-example-blocks-items:copper_sword.name=Copper Sword
+item.addon-example-blocks-items:copper_nugget.name=Copper Nugget
 
 tile.addon-example-blocks-items:copper_ore.name=Copper Ore
 tile.addon-example-blocks-items:copper_ore_animated.name=Copper Ore (animated)

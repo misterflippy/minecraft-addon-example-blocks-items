@@ -1,7 +1,7 @@
 [
-{
-    "flipbook_texture": "textures/blocks/copper_ore_animated",
-    "atlas_tile": "copper_ore_animated",
-    "ticks_per_frame": 10
-  }
+    {
+        "flipbook_texture": "textures/blocks/copper_ore_animated",
+        "atlas_tile": "copper_ore_animated",
+        "ticks_per_frame": 20
+    }
 ]

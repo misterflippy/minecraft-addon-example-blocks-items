@@ -9,6 +9,9 @@
         },
         "copper_apple": {
             "textures": "textures/items/apple_copper"
+        },
+        "copper_nugget": {
+            "textures": "textures/items/copper_nugget"
         }
     }
 }

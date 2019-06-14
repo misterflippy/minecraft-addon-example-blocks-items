@@ -6,9 +6,6 @@
             "is_experimental": false
         },
         "components": {
-            "minecraft:loot": {
-                "table": "loot_tables/blocks/copper_ore.json"
-            },
             "minecraft:destroy_time": {
                 "value": 2
             },
