@@ -24,7 +24,7 @@
                     {
                         "name": "absorption",
                         "chance": 1.0,
-                        "duration": 30, // 2 * 60
+                        "duration": 30,
                         "amplifier": 0
                     }
                 ]

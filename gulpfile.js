@@ -1,5 +1,7 @@
 const MinecraftAddonBuilder = require("minecraft-addon-toolchain/v1");
+const JSONValidator = require('minecraft-addon-toolchain-jsonvalidator');
 
-const builder = new MinecraftAddonBuilder("minecraft-addon-example-blocks-items");
+const builder = new MinecraftAddonBuilder("example-blocks");
+builder.addPlugin(new JSONValidator());
 
 module.exports = builder.configureEverythingForMe();

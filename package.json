@@ -9,6 +9,7 @@
     "packageaddon": "gulp package"
   },
   "devDependencies": {
-    "minecraft-addon-toolchain": "^1.0.1"
+    "minecraft-addon-toolchain": "^1.0.1",
+    "minecraft-addon-toolchain-jsonvalidator": "^1.0.0"
   }
 }
